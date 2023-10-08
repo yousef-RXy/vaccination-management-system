@@ -27,3 +27,5 @@ Employers
 Future improvements:
 Vaccination record management: Users can view and edit their vaccination records, including the vaccine name, date administered, dosage, and route of administration.
 Vaccination status tracking: Users can track their vaccination status and receive reminders for upcoming vaccinations.
+
+- You can use the .exe program in dist file to try it or View the code in src file
